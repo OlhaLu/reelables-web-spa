@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../assets/fonts/Poppins-Regular.ttf');
+    src: local('Poppins-Regular'), local('Poppins Regular'),
+    url('../assets/fonts/Poppins-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../assets/fonts/Oswald-Regular.ttf');
+    src: local('Oswald Regular'), local('Oswald-Regular'),
+    url('../assets/fonts/Oswald-Regular.ttf') format('truetype');
+    font-style: normal;
+}

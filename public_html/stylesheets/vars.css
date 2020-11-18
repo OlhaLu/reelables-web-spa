@@ -1,0 +1,24 @@
+@import "fonts.css";
+
+:root {
+
+    --nav-text-color: #5D676F;
+    --lasure-color: #55CAE8;
+    --black-text-color: #2E2B32;
+    --white-text-color: #FFFFFF;
+    --btn-lazure-text-color: #4AC9F3;
+    --btn-white-text-color: #F6F5F1;
+    --btn-light-bg-color: #E3E0DD;
+    --btn-dark-bg-color: #2E2B32;
+    --footer-text-color: #757378;
+    --grey-section-color: #CED5D8;
+    --light-grey-section-color: #E5E5E5;
+    --footer-section-color: #514E55;
+    --form-nput-border-color: #504C54;
+    --dividers-color: #757378;
+
+
+    --oswald-font: 'Oswald', sans-serif;
+    --poppins-font: 'Poppins', sans-serif;
+
+}

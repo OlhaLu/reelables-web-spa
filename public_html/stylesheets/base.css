@@ -1,0 +1,47 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.body-block {
+    margin: 0 auto;
+    /*padding: 0 30px;*/
+}
+
+section {
+    min-width: 1100px;
+}
+
+.light-section {
+    background: linear-gradient(107.89deg, #E1DDDB 0%, #F2F1ED 21.28%, #FDFCF9 65.53%, #E6E0DD 100.12%)
+}
+
+.dark-section {
+    background: linear-gradient(103.21deg, #302C34 2.8%, #59555D 26.3%, #4A474F 37.81%, #232224 92.31%);
+}
+
+.grey-section {
+    background: var(--grey-section-color);
+}
+
+.light-grey-section {
+    background: var(--light-grey-section-color);
+}
+
+.second-dark-section {
+    background: linear-gradient(281.7deg, #302C34 11.23%, #59555D 42.92%, #4A474F 52.23%, #232224 94.08%);
+}
+
+.footer-section {
+    background: var(--footer-section-color);
+}
